@@ -1,0 +1,74 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+} 
+.container{
+    background:url(https://s1.1zoom.me/b5149/175/School_White_background_Pencils_Multicolor_568201_1920x1080.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+} 
+.contador  {
+    width: 700px;
+    background-color: #00000083;
+    height: 600px;
+}
+.form .form-input{
+    background-color: #000000;
+    padding-left: 8px;
+    width: 80%;
+    color: #ffffff;
+    border-bottom: 2px solid sienna;
+    height: 60px;
+    
+}
+span {
+    color: sienna;
+    
+}
+.form-title{
+    text-align: center;
+}
+
+.nome{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+   
+}
+.email{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+
+}
+.endereco{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+.nascimento{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+.Estados{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+
+
+.cadastro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
