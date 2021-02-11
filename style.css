@@ -20,12 +20,12 @@ box-sizing: border-box;
     padding-left: 8px;
     width: 80%;
     color: #ffffff;
-    border-bottom: 2px solid sienna;
+    border-bottom: 2px solid rgb(214, 109, 23);
     height: 60px;
     
 }
 span {
-    color: sienna;
+    color: rgb(253, 253, 253);
     
 }
 .form-title{
@@ -59,16 +59,19 @@ span {
     color: #ffffff;
 }
 .Estados{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: center;
+    align-items:center;
+    justify-content:center;
     color: #ffffff;
+    width: 750px;
+    
+   
 }
 
 
 .cadastro{
-    display: flex;
+    display:flex;
     align-items: center;
-    justify-content: center;
+    justify-content:center;
 }
 
